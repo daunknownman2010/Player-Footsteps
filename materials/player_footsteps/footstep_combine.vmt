@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "player_footsteps/footstep_combine"
+	"$translucent" 1
+}
